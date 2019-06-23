@@ -1,4 +1,4 @@
-# SPV3-bugshit
+# SPV3 Known Issues
 This is a dummy repository for keeping track of known SPV3 bugs. The bugs listed here are likely unfixable for one reason or another.
 
 Currently, the phrase "unfixable bugs" refers to...
