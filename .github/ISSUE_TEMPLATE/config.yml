@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Does your Issue already exist?
+    url: https://github.com/HaloSPV3/SPV3-Known-Issues/issues?q=
+    about: "Please search for your issue's keyword before opening a new Issue."
+  - name: Halo Legacies/SPV3 Discord
+    url: https://discord.gg/q4f7nTt
+    about: Before reporting bugs, please ask for help in the '#troubleshooting-help' channel in our Discord.
